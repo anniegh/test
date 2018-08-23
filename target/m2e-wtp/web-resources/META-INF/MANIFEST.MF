@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: springbootDemo Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lenove
+Implementation-Vendor-Id: com.lenovo.test
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
